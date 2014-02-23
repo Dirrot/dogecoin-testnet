@@ -126,3 +126,7 @@ If you are interested in analyse the current blockchain, a `blockchain explorer`
 You have successfully set up your own client for the Dogecoin testnet. This is a perfect part of your new development environment. You don't need to be scared of losing real doge during your test runs. Great work, everybody!
 
 **If you still have any questions, feel free to visit the [`/r/dogecoindev`](http://www.reddit.com/r/dogecoindev) subreddit. Every questions about development and the testnet is an added value for the community.**
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
