@@ -5,11 +5,24 @@ Informations, usage and code snippets of dogecoin -testnet mode for developers, 
 
 **Note: If you develop some software around the Dogecoin, you should better use the implemented testnet to prevent loosing your real dogecoins.**
 
-What is the testnet?
+##### Table of Contents
+* [What is the testnet?](#description)  
+* [What do you need to use the testnet?](#usage)  
+* [Ports, ports, ports](#ports) 
+* [Getting some testdoge](#getting)   
+  * [via mining](#mining)  
+  * [via faucets](#faucets)
+* [Block Explorer](#blockexplorer)
+* [Well done!](#done)
+
+
+<a name="description"/>
+## What is the testnet?
 
 The `Dogecoin testnet` is an alternative Dogecoin network with a separate blockchain. Since it uses a different blockchain, the testnet doesn't operate with the real dogecoin, but rather with what we call _testdoge_. These testdoge have `no monetary worth`. This allows developers to test their Dogecoin applications on the testnet `without risking to lose the real Dogecoin` or having to pay transactions fees.
 
-What do you need to use the testnet?
+<a name="usage"/>
+## What do you need to use the testnet?
 
 Well, this ist totally simple, if you have installed the `dogecoin wallet (dogecoin-qt/dogecoind)`. You can just add an arguement to the command via commandline. Like this:
 
@@ -47,6 +60,9 @@ addnode = testdoge.lionsserves.de
 
 > If you like your node to be added here. Let me know.
 
+<a name="ports"/>
+## Ports, ports, ports
+
 Let's talk about the ports! As you realized yourself, the testnet mode uses different ports. Here's an overview:
 
 Ports/Description | Dogecoin-qt/dogecoind |Dogecoin Testnet      |
@@ -55,7 +71,13 @@ rpc   | 22555                 | 44555                |
 p2p   | 22556                 | 44556                |
 
 
+<a name="getting"/>
+## Get some testdoge
+
 So everything is now set up. And you should `get some testdoge`!
+
+<a name="mining"/>
+### via mining
 
 You can try to mine it yourself with the implemented cpu miner in the dogecoin-qt/dogecoind.
 
@@ -85,11 +107,20 @@ Add to the dogecoin.conf:
 gen = 1
 ```
 
+<a name="faucets"/>
+### via faucets
+
 And if you don't want to mine your testdoge, you can definitly check out some `faucets for the testdoge`. Here you can find a good one [`here`](testdoge.lionservers.de).
 
 > If you like your testdoge-faucet to be added here. Let me know.
 
+<a name="blockexplorer"/>
+## Block Exploer (Testnet)
+
 If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](testdoge.lionservers.de/explorer).
+
+<a name="done"/>
+## Well done.
 
 *That's it!*
 You have successfully set up your own client for the Dogecoin testnet. This is a perfect part of your new development environment. You don't need to be scared of losing real doge during your test runs. Great work, everybody!
