@@ -79,6 +79,8 @@ So everything is now set up. And you should `get some testdoge`!
 <a name="mining"/>
 ### via mining
 
+> If you interested in running a mining pool. And would like to test your pool via the testnet mode. Please note that because this is testnet, the hash rate is extremely low. Please do not use GPU miners on this, you'll go straight past 51% attack and somewhere in a 99% attack. **CPU miners strongly recommended. And should be used only!**
+
 You can try to mine it yourself with the implemented cpu miner in the dogecoin-qt/dogecoind.
 
 **linux console style**
