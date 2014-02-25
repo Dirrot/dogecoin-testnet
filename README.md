@@ -117,7 +117,7 @@ And if you don't want to mine your testdoge, you can definitly check out some `f
 <a name="blockexplorer"/>
 ## Block Explroer (Testnet)
 
-If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](http://testdoge.lionservers.de/explorer).
+If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](http://testdoge.lionservers.de/explorer/).
 
 <a name="done"/>
 ## Well done.
