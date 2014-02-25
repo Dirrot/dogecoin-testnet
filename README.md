@@ -110,14 +110,14 @@ gen = 1
 <a name="faucets"/>
 ### via faucets
 
-And if you don't want to mine your testdoge, you can definitly check out some `faucets for the testdoge`. Here you can find a good one [`here`](testdoge.lionservers.de).
+And if you don't want to mine your testdoge, you can definitly check out some `faucets for the testdoge`. Here you can find a good one [`here`](http://testdoge.lionservers.de).
 
 > If you like your testdoge-faucet to be added here. Let me know.
 
 <a name="blockexplorer"/>
 ## Block Explroer (Testnet)
 
-If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](testdoge.lionservers.de/explorer).
+If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](http://testdoge.lionservers.de/explorer).
 
 <a name="done"/>
 ## Well done.
