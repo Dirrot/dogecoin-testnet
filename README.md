@@ -1,4 +1,4 @@
-Dogecoin Testnet
+Dogecoin Testnet [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ================
 
 Informations, usage and code snippets of dogecoin -testnet mode for developers, who needs a stable playground for their applications.
@@ -115,7 +115,7 @@ And if you don't want to mine your testdoge, you can definitly check out some `f
 > If you like your testdoge-faucet to be added here. Let me know.
 
 <a name="blockexplorer"/>
-## Block Exploer (Testnet)
+## Block Explroer (Testnet)
 
 If you are interested in analyse the current blockchain, a `blockchain explorer` can be found [`here`](testdoge.lionservers.de/explorer).
 
@@ -128,5 +128,4 @@ You have successfully set up your own client for the Dogecoin testnet. This is a
 **If you still have any questions, feel free to visit the [`/r/dogecoindev`](http://www.reddit.com/r/dogecoindev) subreddit. Every questions about development and the testnet is an added value for the community.**
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
