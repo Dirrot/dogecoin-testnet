@@ -52,7 +52,8 @@ server = 1
 testnet = 1
 rpcport = 44555
 addnode = suchdig.com
-addnode = testdoge.lionsserves.de
+addnode = testdoge.lionservers.de
+addnode = senatorwhiskers.com
 # we can totally add more nodes.
 # if one node goes down. the testnet could be run with other nodes.
 # just think about it, as a kind of failsafe node.
