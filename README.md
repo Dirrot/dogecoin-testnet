@@ -47,13 +47,14 @@ If this config file doesn't exists, we going to create it. And if it exists, jus
 
 Just add the following lines to the dogecoin.conf:
 ```bash
-daemon = 1
-server = 1
-testnet = 1
-rpcport = 44555
-addnode = suchdig.com
-addnode = testdoge.lionservers.de
-addnode = senatorwhiskers.com
+daemon=1
+server=1
+testnet=1
+rpcport=44555
+addnode=testnets.chain.so
+addnode=suchdig.com
+addnode=testdoge.lionservers.de
+addnode=senatorwhiskers.com
 # we can totally add more nodes.
 # if one node goes down. the testnet could be run with other nodes.
 # just think about it, as a kind of failsafe node.
@@ -129,6 +130,3 @@ If you are interested in analyse the current blockchain, a `blockchain explorer`
 You have successfully set up your own client for the Dogecoin testnet. This is a perfect part of your new development environment. You don't need to be scared of losing real doge during your test runs. Great work, everybody!
 
 **If you still have any questions, feel free to visit the [`/r/dogecoindev`](http://www.reddit.com/r/dogecoindev) subreddit. Every questions about development and the testnet is an added value for the community.**
-
-
-
