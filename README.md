@@ -1,5 +1,6 @@
 Dogecoin Testnet [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dirrot/dogecoin-testnet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 ================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Dirrot/dogecoin-testnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Informations, usage and code snippets of dogecoin -testnet mode for developers, who needs a stable playground for their applications.
 
