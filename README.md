@@ -116,6 +116,8 @@ gen = 1
 
 And if you don't want to mine your testdoge, you can definitly check out some `faucets for the testdoge`. Here you can find a good one [`here`](http://testdoge.lionservers.de).
 
+[https://doge-faucet-testnet.ggcorp.fr](https://doge-faucet-testnet.ggcorp.fr)
+
 > If you like your testdoge-faucet to be added here. Let me know.
 
 <a name="blockexplorer"/>
